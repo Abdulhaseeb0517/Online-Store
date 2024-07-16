@@ -32,7 +32,7 @@ function ProductDetail() {
                                         
                                         <p><strong>Color</strong>: Black</p>
                                         <p><strong>Size</strong>: M</p>
-                                        <p><strong>Cathegory</strong>: Half, three quarter and full-length sleeve types</p>
+                                        <p><strong>Category</strong>: Half, three quarter and full-length sleeve types</p>
 
 
 
@@ -79,7 +79,7 @@ function ProductDetail() {
                                             <p><strong>Blue Hoodie</strong></p>
                                             <p><strong>Color</strong>: blue</p>
                                             <p><strong>Size</strong>: M</p>
-                                            <p><strong>Cathegory</strong>: Half, three quarter and full-length sleeve types</p>
+                                            <p><strong>Category</strong>: Half, three quarter and full-length sleeve types</p>
 
 
 
@@ -128,7 +128,7 @@ function ProductDetail() {
                                             <p><strong>Red Hoodie</strong></p>
                                             <p><strong>Color</strong>: red</p>
                                             <p><strong>Size</strong>: M</p>
-                                            <p><strong>Cathegory</strong>: Half, three quarter and full-length sleeve types</p>
+                                            <p><strong>Category</strong>: Half, three quarter and full-length sleeve types</p>
 
 
 
