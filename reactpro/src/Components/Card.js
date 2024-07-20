@@ -68,14 +68,14 @@ function Card() {
 
 
                 <div className="row row-cols-1 row-cols-md-3 g-4" style={{ marginTop: "-50px" }}>
-                    {product.map((porjuct) => (
+                    {product.map((porduct) => (
                         <div className="col">
 
                             <div className="card h-100">
-                                <img src={porjuct.img} className="card-img-top" alt="..." />
+                                <img src={porduct.img} className="card-img-top" alt="..." />
                                 <div className="card-body">
-                                    <h5 className="card-title">{porjuct.name}</h5>
-                                    <p className="card-text">{porjuct.cathegory}</p>
+                                    <h5 className="card-title">{porduct.name}</h5>
+                                    <p className="card-text">{porduct.cathegory}</p>
                                     <Link to="/productDetail" className="btn btn-primary">Read more</Link>
                                 </div>
                             </div>
